@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Papers We Love</title>
+  <subtitle>A repository of academic computer science research papers and a community who loves reading them.</subtitle>
+  <id>http://papers-we-love.github.io/</id>
+  <link href="http://papers-we-love.github.io/"/>
+  <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
+  <updated>2020-02-29T19:00:00-05:00</updated>
+  <author>
+    <name>Papers We Love</name>
+  </author>
+  <entry>
+    <title>March Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/march-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/march-meetups/</id>
+    <published>2020-02-29T19:00:00-05:00</published>
+    <updated>2020-03-03T00:05:27-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for March across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 3/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/269014590/"&gt;Andrew Rodgers on Host Identity Protocol&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 3/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfrybcfbhb/"&gt;PWL #54: TBD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CABA 3/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/269131988/"&gt;Data-Driven Computer Drawing Tools &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 3/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/268932315/"&gt;David Ashby on Understanding Real-World Concurrency Bugs in Go&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 3/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/ngzrrqybcfbwb/"&gt;TBD, but probably an awesome paper :-)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 3/18&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Toronto/events/268708324/"&gt;#33 Myles Braithwaite on CraftAssist: A Framework for Dialogue-enabled …&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kansas City 3/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-KC/events/268510139/"&gt;Nate on Improving Comfort in Virtual Reality&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>February Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/february-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/february-meetups/</id>
+    <published>2020-01-31T19:00:00-05:00</published>
+    <updated>2020-02-29T22:05:23-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for February across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 2/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/267428622/"&gt;Lang Martin on What Goes Around Comes Around&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 2/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Toronto/events/267517499/"&gt;Spike Lindsey on "Cassandra - A Decentralized Structured Storage System"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 2/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/268129607/"&gt;Dan Bentley on Build Systems &amp;amp; Catherine Holloway on The Mathematics of Origami&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 2/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfrybcdbjb/"&gt;PWL #61: Backpropagation applied to handwritten zip code recognition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 2/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/pmgxbqybcdbjb/"&gt;The Snowflake Elastic Data Warehouse&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 2/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/268075449/"&gt;February: Distributed Locking&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambridge 2/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/268521686/"&gt;MIT – Papers We Love Edition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 2/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/268553979/"&gt;The Pragmatic Programmer (20th Anniversary Edition)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 2/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/268087353/"&gt;Local Reality, Experimental Falsifiability, &amp;amp; Bell's Theorem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CABA 2/18&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/268246623/"&gt;Learning anatomical representations with denoising autoencoders&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 2/18&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/ngzrrqybcdbxb/"&gt;TBD, but probably an awesome paper :-)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Milano 2/19&lt;/strong&gt;: &lt;a href="https://www.eventbrite.it/e/biglietti-pwlmi4-partial-computation-of-programs-futamura-1983-91638233423"&gt;PWLMI#4: Partial Computation of Programs (Futamura, 1983)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Barcelona 2/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bcn/events/268140742/"&gt;02/20 Lau Llobet on A Large-Scale Study of Programming Languages &amp;amp; Code Quality&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 2/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/268667728/"&gt;Papers We Love: "Deep Representation Learning with Genetic Programming"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bengaluru 2/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Bangalore/events/268444851/"&gt;"Your Server As A Function" written by Marius Eriksen, presented by Sherin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kansas City 2/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-KC/events/268276564/"&gt;Gabby Ortman on Algorithms to Assemble a Genome&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nea Ionia 2/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Athens/events/268600142/"&gt;George Kadianakis on Onions Everyday: Food? Medicine? Protocol?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Berlin 2/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Berlin/events/268772977/"&gt;Scheme: An Interpreter for Extended Lambda Calculus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 2/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/268722797/"&gt;Digital Audio Resampling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 2/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/268818546/"&gt;The Pragmatic Programmer (20th Anniversary Edition)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 2/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/268482515/"&gt;A grounded theory of how people manage the process of software development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CABA 2/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/268275350/"&gt;Finanzas y cambio climático por Pablo Bortz&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>January Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/january-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/january-meetups/</id>
+    <published>2019-12-31T19:00:00-05:00</published>
+    <updated>2020-01-31T22:05:26-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for January across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 1/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfrybccbdb/"&gt;PWL #60: The Properties and Promises of UTF-8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 1/8&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/267124284/"&gt;Sean T. Allen on Deny Capabilities for Safe, Fast Actors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Milano 1/16&lt;/strong&gt;: &lt;a href="https://www.eventbrite.it/e/biglietti-pwlmi3-thumbs-up-or-thumbs-down-turney-2002-87934276789"&gt;PWLMI#3: Thumbs Up or Thumbs Down? (Turney, 2002)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 1/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/267723702/"&gt;Too Much Crypto&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 1/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/266943387/"&gt;CREST/PWL Special Event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 1/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/ngzrrqybccbcc/"&gt;TBD, but probably an awesome paper :-)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 1/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/267950482/"&gt;GUI automation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 1/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/267980769/"&gt;The Pragmatic Programmer (20th Anniversary Edition)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CABA 1/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/267775894/"&gt;Introduction to Quantum Mechanics and Quantum Computing&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>December Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2019/news/december-meetups/"/>
+    <id>http://papers-we-love.github.io/2019/news/december-meetups/</id>
+    <published>2019-11-30T19:00:00-05:00</published>
+    <updated>2019-12-31T22:05:24-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for December across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 12/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/266842122/"&gt;Advent of Code (aka Language Shootout)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;McLean 12/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/jkrgjryzpbkc/"&gt;Papers We Love Monthly Meeting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 12/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfryzqbhb/"&gt;PWL #59: Lightweight Asynchronous Snapshots for Distributed Dataflows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 12/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/pmgxbqyzqbhb/"&gt;[VENUE CHANGED] Evolving Error Models&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 12/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/266837388/"&gt;Causal profiling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nea Ionia 12/11&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Athens/events/266726741/"&gt;Apollonas Matsoukas on Rapid solutions of problems by quantum computation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Milano 12/11&lt;/strong&gt;: &lt;a href="https://www.eventbrite.it/e/biglietti-pwlmi2-its-a-streamer-world-a-journey-through-processing-flows-of-data-80872585079"&gt;PWLMI#2: It's a Streamer World! A Journey Through Processing Flows of Data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CABA 12/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/265619096/"&gt;Practical introduction to Bayesian statistics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 12/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/ngzrrqyzqbwb/"&gt;TBD, but probably an awesome paper :-)&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>November Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2019/news/november-meetups/"/>
+    <id>http://papers-we-love.github.io/2019/news/november-meetups/</id>
+    <published>2019-10-31T20:00:00-04:00</published>
+    <updated>2019-11-02T08:05:22-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for November across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 11/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/266028254/"&gt;Josh Ziegler on What Stands in the Way of the Robot Revolution?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 11/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/266066059/"&gt;Unraveling the JPEG&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 11/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfryzpbkb/"&gt;PWL #58: Attention Is All You Need&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 11/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/pmgxbqyzpbkb/"&gt;Real-World Lossless Compression&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 11/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/ngzrrqyzpbzb/"&gt;TBD, but probably an awesome paper :-)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 11/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/jkrgjryzpbkc/"&gt;Papers We Love Monthly Meeting&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>October Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2019/news/october-meetups/"/>
+    <id>http://papers-we-love.github.io/2019/news/october-meetups/</id>
+    <published>2019-09-30T20:00:00-04:00</published>
+    <updated>2019-10-31T22:05:23-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for October across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 10/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/265170390/"&gt;Distributed Consensus Revised by Heidi Howard&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 10/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/265073175/"&gt;Hybrid Logical Clocks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 10/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfryznbfb/"&gt;PWL #57: Full-Stack Teams, not Engineers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 10/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/pmgxbqyznbfb/"&gt;Minds, Brains, and Programs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cambridge 10/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/265166051/"&gt;Scott Sanderson — Frank McSherry's COST and Timely Dataflow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 10/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/264524625/"&gt;October: In Search of an Understandable Consensus Algorithm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 10/10&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/265273996/"&gt;Gray Failure: The Achilles’ Heel of Cloud-Scale Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 10/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/ngzrrqyznbtb/"&gt;TBD, but probably an awesome paper :-)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 10/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/264740929/"&gt;Quantitative Evaluation of Soybean Leaflet Shapes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 10/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/265575294/"&gt;Life Beyond Distributed Transactions / Space-efficient Static Trees and Graphs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 10/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/265675365/"&gt;BREACH: Reviving the CRIME Attack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Milano 10/24&lt;/strong&gt;: &lt;a href="https://www.eventbrite.it/e/biglietti-pwlmi1-support-vector-networks-cortes-and-vapnik-1995-71259157057"&gt;PWLMI#1: Support-Vector Networks (Cortes and Vapnik, 1995)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 10/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/263475513/"&gt;Nyah Check on Serverless Computing: One step forward and two steps backward&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 10/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/265469441/"&gt;Andrew Lelechenko "Backtracking Interleaving and Terminating Monad Transformers"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Berlin 10/31&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Berlin/events/265934307/"&gt;Spoon - Source Code Analysis and Transformation for Java&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+</feed>
